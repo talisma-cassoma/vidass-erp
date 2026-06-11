@@ -38,7 +38,7 @@ yarn-error.log*
 .env.dev
 .env
 .env.test.coolify
-
+*.env
 # vercel
 .vercel
 
