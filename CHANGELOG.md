@@ -5,6 +5,14 @@ All notable changes to NextCRM are documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## 1.0.0 (2026-06-11)
+
+
+### Bug Fixes
+
+* lockfile ([25bf801](https://github.com/talisma-cassoma/vidass-erp/commit/25bf8017b69b9e372d04f0d66ad5a05897c42952))
+* update pnpm lockfile ([eed2fb2](https://github.com/talisma-cassoma/vidass-erp/commit/eed2fb25bba37f2e49642cd55d1d95c34f88b275))
+
 ## [0.12.1](https://github.com/pdovhomilja/nextcrm-app/compare/v0.12.0...v0.12.1) (2026-05-11)
 
 

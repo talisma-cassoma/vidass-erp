@@ -1,6 +1,6 @@
 {
   "name": "vidass-erp",
-  "version": "0.12.1",
+  "version": "1.0.0",
   "private": true,
   "engines": {
     "node": ">=22.12.0",
